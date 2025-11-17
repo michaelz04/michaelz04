@@ -17,7 +17,7 @@ function Home() {
       <div class='contacts'>
         <a href='https://linkedin.com/in/michaelz04' target="_blank">LinkedIn</a>
         <a href='https://github.com/michaelz04/' target="_blank">GitHub</a>
-        <a href="/michaelz04/Michael_Resume.pdf" target="_blank">Resume</a>
+        <a href="/Michael_Resume.pdf" target="_blank">Resume</a>
       </div>
       
     </div>
