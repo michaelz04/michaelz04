@@ -7,10 +7,10 @@ function Home() {
       <h2>CS & Stats @ University of Toronto</h2>
       <h3>Image of Me</h3>
       <div class='sections'>
-        <p>About</p>
-        <p>Work Experience</p>
-        <p>Projects</p>
-        <p>Writing</p>
+        <p>Hey! I'm Michael.</p>
+        <h4>Work Experience</h4>
+        <h4>Projects</h4>
+        <h4>Writing</h4>
 
       </div>
 

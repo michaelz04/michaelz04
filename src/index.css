@@ -4,4 +4,5 @@ body{
     justify-self: center;
     font-family: "Reddit Mono", monospace;
     font-optical-sizing: auto;
+    align-items: center;
 }
