@@ -3,3 +3,14 @@
     gap: 16px;
     justify-content: center;
 }
+
+.work-items{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.box {
+  margin: 0;
+  padding: 0;
+}
