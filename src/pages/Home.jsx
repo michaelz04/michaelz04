@@ -1,4 +1,4 @@
-import './Home.css'
+import '../styles/Home.css'
 import { Link } from 'react-router-dom';
 
 function Home() {
@@ -19,7 +19,9 @@ function Home() {
         <h3>
           [ <Link to="/projects">Projects</Link> ]
         </h3>
-        <h3>[ Writing ]</h3>
+        <h3>
+          [ <Link to="/writing">Writing</Link> ]
+        </h3>
 
       </div>
 

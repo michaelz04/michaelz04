@@ -1,4 +1,4 @@
-import './Work.css'
+import '../styles/Projects.css'
 
 function Work() {
 
