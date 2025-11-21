@@ -1,4 +1,5 @@
 import '../styles/Work.css'
+import Header from '../components/Header.jsx'
 
 function Work() {
 
@@ -26,6 +27,7 @@ function Work() {
   ];
   return (
     <div> 
+      <Header></Header>
         <h3>Work Experience</h3>
         <div class='items'>
             {

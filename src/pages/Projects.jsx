@@ -1,4 +1,5 @@
 import '../styles/Projects.css'
+import Header from '../components/Header.jsx'
 
 function Work() {
 
@@ -21,6 +22,7 @@ function Work() {
   ];
   return (
     <div> 
+      <Header></Header>
         <h3>Projects</h3>
         <div class='items'>
             {

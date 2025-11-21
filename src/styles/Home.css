@@ -22,3 +22,9 @@
 
   /* Any other styles for .box go here */
 }
+
+.header-links {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}

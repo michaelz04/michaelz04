@@ -1,29 +1,22 @@
 import '../styles/Home.css'
-import { Link } from 'react-router-dom';
+import Header from '../components/Header.jsx'
 
 function Home() {
 
   return (
+    
     <div> 
+      <Header></Header>
       <h1>Michael Zhou</h1>
-      <h2>CS & Stats @ University of Toronto</h2>
+      <h2>4th Year CS & Stats @ University of Toronto</h2>
       <hr className="divider" />
       <h3>Image of Me</h3>
       <div class='sections'>
         <p>Hey! I'm Michael.</p>
         <hr className="subtle-divider" />
-        
-        <h3>
-          [ <Link to="/work">Work Experience</Link> ]
-        </h3>
-        <h3>
-          [ <Link to="/projects">Projects</Link> ]
-        </h3>
-        <h3>
-          [ <Link to="/writing">Writing</Link> ]
-        </h3>
-
       </div>
+
+      
 
       <div class='contacts'>
         <a href='https://linkedin.com/in/michaelz04' target="_blank">LinkedIn</a>
