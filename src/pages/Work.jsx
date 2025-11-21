@@ -27,12 +27,13 @@ function Work() {
   return (
     <div> 
         <h3>Work Experience</h3>
-        <div class='work-items'>
+        <div class='items'>
             {
             workHistory.map((job, index) => (
                 <div key={index}>
-                <p className="box">{job.role}</p>
+                <h4 className="box">{job.role}</h4>
                 <p className="box">{job.dateRange}</p>
+                <hr className="subtle-divider" />
                 <p className="box">{job.description}</p>
                 </div>
             
