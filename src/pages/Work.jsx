@@ -7,22 +7,22 @@ function Work() {
     {
       role: "Incoming Software Engineer Intern @ AMD",
       dateRange:"May 2026 - Aug 2027",
-      description: ""
+      description: "Data & ML Infrastructure"
     },
     {
       role: "IT Business Analyst @ Intact",
       dateRange:"Sept 2025 - Dec 2025",
-      description: ""
+      description: "Snowflake Cortex AI"
     },
     {
       role: "Software Developer @ Toromont CAT",
       dateRange:"Sept 2024 - Dec 2024",
-      description: ""
+      description: "Data Pipelines"
     },
     {
       role: "Data Analyst @ Toromont CAT",
       dateRange:"Jan 2024 - Apr 2024",
-      description: ""
+      description: "Model Fitting"
     }
   ];
   return (
