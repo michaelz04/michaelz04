@@ -9,14 +9,8 @@ function Home() {
       <Header></Header>
       <h1>Michael Zhou</h1>
       <h2>4th Year CS & Stats @ University of Toronto</h2>
-      <hr className="divider" />
       <h3>Image of Me</h3>
-      <div class='sections'>
-        <p>Hey! I'm Michael.</p>
-        <hr className="subtle-divider" />
-      </div>
-
-      
+      <hr className="subtle-divider" />
 
       <div class='contacts'>
         <a href='https://linkedin.com/in/michaelz04' target="_blank">LinkedIn</a>
