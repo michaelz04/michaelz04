@@ -14,13 +14,12 @@
   margin: 0;
   padding: 0;
   /* Set a maximum width for the box so the text has to break */
-  max-width: 800px; /* Adjust this value as needed, or use a percentage like 80% */
+  max-width: 750px; /* Adjust this value as needed, or use a percentage like 80% */
   width: auto;
   
   /* Ensure the text wraps instead of staying on a single line */
   white-space: normal; 
 
-  /* Any other styles for .box go here */
 }
 
 .header-links {
