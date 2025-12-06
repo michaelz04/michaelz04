@@ -8,7 +8,7 @@ function Home() {
     <div> 
       <Header></Header>
       <h1>Michael Zhou</h1>
-      <h2>4th Year CS & Stats @ University of Toronto</h2>
+      <h2>CS & Stats @ University of Toronto</h2>
       <h3>Image of Me</h3>
       <hr className="subtle-divider" />
 
